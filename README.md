@@ -13,5 +13,3 @@ A machine learning-based web application to predict diabetes using patient data.
 - **Backend:** Python, Flask
 - **Machine Learning Model:** Scikit-Learn
 - **Styling:** Modern UI with CSS animations
-
-##  Project Structure
